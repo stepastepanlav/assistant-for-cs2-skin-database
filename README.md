@@ -1,0 +1,1 @@
+# assistant-for-cs2-skin-database
